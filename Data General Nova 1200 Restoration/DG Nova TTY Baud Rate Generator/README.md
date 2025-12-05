@@ -1,4 +1,4 @@
-The DG Nova TTY Baud Rate Generator is an add-on to the 107-000063 board (BASIC I/O CONTROL DGC NOVA) that is configured as a Teletype Interface.
-This board serves as a replacement for the 14.08 kHz oscillator circuit to generate baud rates from 150 bps to 38,400 bps. This add-on board uses a 4.9152 MHz crystal oscillator and a binary counter to produce the reference to the TTY interface. This reference frequency is 128 times the baud rate.
+The DG Nova TTY Baud Rate Generator is an add-on to the 107-000063 board (4010 BASIC I/O CONTROL DGC NOVA) that is configured as a Teletype Interface.
+This add-on board allows the user to select baud rates from 150 bps to 38,400 bps. The board uses a 4.9152 MHz crystal oscillator and a binary counter to produce the frequency reference to the TTY interface, which is 128 times the baud rate. The existing reference clock on the 4010 Basic I/O Control board is a 14.08 kHz crystal oscillator that enables the board to operate at only 110 bps. This add-on board is convenient because the binary loader operates much faster. 
 ![v0 board 3D](https://github.com/user-attachments/assets/b84ea041-1490-463b-beef-b5a4d877a901)
 ![IMG_4210](https://github.com/user-attachments/assets/861a2c75-bc34-441a-833e-97a60d326203)
