@@ -3,7 +3,7 @@ This board connects to only three pins on the Nova backplane in the slot where t
 <ul>
 <li> pin A85, Nova TTY Serial Output</li>
 <li> pin B69, Nova TTY Serial Input</li>
-<li> pin B1, Nova T"TY Backplane GND Connection</li>
+<li> pin B1, Nova TTY Backplane GND Connection</li>
 </ul>
 The converter board has a small surface-mount LED to indicate data activity. There is a location to install an optional larger T1-3/4 size LED. If this larger LED is installed, then remove the existing SMT LED.
 <img width="1684" height="707" alt="image" src="https://github.com/user-attachments/assets/24ca796a-c357-4639-8958-0717bb05d389" />
