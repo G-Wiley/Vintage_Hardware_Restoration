@@ -1,0 +1,1 @@
+These design files are the main elements to build a cable that connects from the 4047 Disk Adapter to a Nova 1200 computer. The connector on the back of the 4047 Disk Adapter is a 50-pin header with non-standard 0.15-inch pin spacing.
