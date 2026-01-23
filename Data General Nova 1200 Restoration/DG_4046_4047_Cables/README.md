@@ -2,7 +2,7 @@ These design files are the main elements to build a cable that connects from the
 
 The cable has a DG-Nova-4047-Disk-Adapter-Conn at one end and the DG-Nova-CPU-Side-Disk-Adapter-Conn at the other end.
 
-The first group of photos show details regarding the DG-Nova-4047-Disk-Adapter-Conn that plugs into the 4047.
+<b>The first group of photos show details regarding the DG-Nova-4047-Disk-Adapter-Conn that plugs into the 4047.</b>
 
 DG-Nova-4047-Disk-Adapter-Conn component side:
 <img width="1800" height="806" alt="image" src="https://github.com/user-attachments/assets/96756fe5-aaee-424e-89a8-9761115f4e09" />
@@ -13,7 +13,7 @@ DG-Nova-4047-Disk-Adapter-Conn circuit side:
 DG-Nova-4047-Disk-Adapter-Conn connected to "P2" on the back of the DG 4047 chassis:
 <img width="2016" height="1512" alt="image" src="https://github.com/user-attachments/assets/ef6b9b73-8a05-414d-b04b-b8516958b895" />
 
-The second group of photos show details regarding the DG-Nova-CPU-Side-Disk-Adapter-Conn that's installed in the Nova 1200 CPU.
+<b>The second group of photos show details regarding the DG-Nova-CPU-Side-Disk-Adapter-Conn that's installed in the Nova 1200 CPU.</b>
 
 DG-Nova-CPU-Side-Disk-Adapter-Conn component side:
 <img width="1495" height="948" alt="image" src="https://github.com/user-attachments/assets/aced80cb-e6d7-4c62-beec-2a0ed1d82cc8" />
