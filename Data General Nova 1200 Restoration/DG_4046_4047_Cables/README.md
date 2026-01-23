@@ -1,5 +1,9 @@
 These design files are the main elements to build a cable that connects from the 4047 Disk Adapter to a Nova 1200 computer. The connector on the back of the 4047 Disk Adapter is a 50-pin header with non-standard 0.15-inch pin spacing. The DG-Nova-4047-Disk-Adapter-Conn is a custom connector board that plugs onto that non-standard 50-pin header. The DG-Nova-CPU-Side-Disk-Adapter-Conn is a small connector board that mounts in the connector bay on the back of the Nova 1200 chassis. A pair of 26-pin flat cables connect these two boards. The wire-wrap pins on the two 26-pin headers on the DG-Nova-CPU-Side-Disk-Adapter-Conn must be connected to specific pins on the board slot on the Nova 1200 backplane where the 4046 Disk Controller is installed. The file "Cable 4046 to 4047 v01.xlsx" is a wirelist that defines the wire-wrap connections between the DG-Nova-CPU-Side-Disk-Adapter-Conn board and the slot with the 4046 Disk Controller.
 
+The cable has a DG-Nova-4047-Disk-Adapter-Conn at one end and the DG-Nova-CPU-Side-Disk-Adapter-Conn at the other end.
+
+The first group of photos show details regarding the DG-Nova-4047-Disk-Adapter-Conn that plugs into the 4047.
+
 DG-Nova-4047-Disk-Adapter-Conn component side:
 <img width="1800" height="806" alt="image" src="https://github.com/user-attachments/assets/96756fe5-aaee-424e-89a8-9761115f4e09" />
 
@@ -9,6 +13,7 @@ DG-Nova-4047-Disk-Adapter-Conn circuit side:
 DG-Nova-4047-Disk-Adapter-Conn connected to "P2" on the back of the DG 4047 chassis:
 <img width="2016" height="1512" alt="image" src="https://github.com/user-attachments/assets/ef6b9b73-8a05-414d-b04b-b8516958b895" />
 
+The second group of photos show details regarding the DG-Nova-CPU-Side-Disk-Adapter-Conn that's installed in the Nova 1200 CPU.
 
 DG-Nova-CPU-Side-Disk-Adapter-Conn component side:
 <img width="1495" height="948" alt="image" src="https://github.com/user-attachments/assets/aced80cb-e6d7-4c62-beec-2a0ed1d82cc8" />
