@@ -10,6 +10,9 @@ DG-Nova-4047-Disk-Adapter-Conn component side:
 DG-Nova-4047-Disk-Adapter-Conn circuit side:
 <img width="1800" height="681" alt="image" src="https://github.com/user-attachments/assets/97c80dfc-7c52-4f63-ac88-f9c4e49fa776" />
 
+DG-Nova-4047-Disk-Adapter-Conn, with Disk Adapter Connector Spacer installed:
+<img width="2858" height="930" alt="image" src="https://github.com/user-attachments/assets/9a7b2031-f845-4c59-8338-a6f41689b2a5" />
+
 DG-Nova-4047-Disk-Adapter-Conn connected to "P2" on the back of the DG 4047 chassis:
 <img width="2016" height="1512" alt="image" src="https://github.com/user-attachments/assets/ef6b9b73-8a05-414d-b04b-b8516958b895" />
 
