@@ -1,5 +1,5 @@
 <h1>Nova Disk Diagnostics and Reliability</h1>
-<p>This is a small project to create a Nova Absolute Binary file of the Data General Nova "Moving Head Disk Control Diagnostic" program, listing 096-000169-07, tape 095-000069-07. This is on pdf pages 4 through 60 of "068-000169-13_Moving_Head_Disk_Control_Diagnostic_1977.pdf".</p>
+<p>This is a small project to create a Nova Absolute Binary file of the Data General Nova "Moving Head Disk Control Diagnostic" program, listing 096-000169-07, tape 095-000069-07. This is on pdf pages 4 through 60 of "068-000169-13_Moving_Head_Disk_Control_Diagnostic_1977.pdf". This utility is quite convenient to use because it can run in 4K words of memory.</p>
 
 <p>The file "068-000169-13_Moving_Head_Disk_Control_Diagnostic_1977.pdf" is available on Bitsavers at: 
 <br>   https://bitsavers.org/pdf/dg/disc/4046_4047_4049/068-000169-13_Moving_Head_Disk_Control_Diagnostic_1977.pdf
